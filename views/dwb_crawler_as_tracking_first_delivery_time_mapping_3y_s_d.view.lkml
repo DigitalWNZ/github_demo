@@ -31,5 +31,6 @@ view: dwb_crawler_as_tracking_first_delivery_time_mapping_3y_s_d {
   measure: count {
     type: count
     drill_fields: [id]
+    value_format_name: decimal_2
   }
 }
